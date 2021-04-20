@@ -28,7 +28,7 @@ _Meer informatie nodig? Mail naar_ [_miet@miet.be_](mailto:miet@miet.be) _en ik 
 
 Raak geïnspireerd door andere handleidingen
 
-{% page-ref page="inspiratie.md" %}
+{% page-ref page="inspiratie/" %}
 
 ## Printen
 
