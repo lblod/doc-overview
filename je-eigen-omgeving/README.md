@@ -12,7 +12,7 @@ description: 'Bekijk hoe anderen het aanpakken:'
 
 ![Informatiestromen](../.gitbook/assets/knowledge-base-informatiestromen.png)
 
-## 0.  \[gitbook\] Algemene ABB Wiki
+## \[gitbook\] Algemene ABB Wiki
 
 ### Wat: een kaart
 
@@ -24,9 +24,7 @@ Digiteam, toekomstige collega's, mensen die samenwerken met het Digiteam \(ander
 
 {% embed url="https://abb-vlaanderen.gitbook.io/abb" %}
 
-#### 
-
-## 1.  \[gitbook\] Handleidingen
+## \[gitbook\] Handleidingen
 
 ### Voor wie: gebruikers van applicaties en diensten van ABB.
 
@@ -44,11 +42,7 @@ Voorbeelden, nog gelijk te trekken:
 Bepaalde contextuele informatie komt ook in **nieuwsbrieven**, op **YouTube**, of op de **website** \(lokaalbestuur.vlaanderen.be\) terecht. Die kunnen hier ook gelinked worden in gitbook, maar **gitbook gaat over specifieke productinformatie**.
 {% endhint %}
 
-## 2. Publieke juridische achtergrond voor ambtenaren in lokale besturen
-
-Juridische achtergrond, decreten, ... Hoort thuis op [https://lokaalbestuur.vlaanderen.be/](https://lokaalbestuur.vlaanderen.be/).
-
-## 3. \[gitbook\] Specialistische, publieke informatie voor betrokken partijen in Gitbook
+## \[gitbook\] Specialistische, publieke informatie voor betrokken partijen in Gitbook
 
 #### Voor wie
 
@@ -61,20 +55,21 @@ Delen van informatie die helpt om de applicaties mee te bouwen.
 Voorbeelden, nog gelijk te trekken:  
 - [https://abb-vlaanderen.gitbook.io/feature-passports-lblod](https://abb-vlaanderen.gitbook.io/feature-passports-lblod)
 
-## 4. \[gitbook\] Digiteam Wiki – afgeschermde informatie
+## \[gitbook\] Digiteam Wiki's – afgeschermde informatie
 
-#### Voor wie
+#### Voor wie: Teamleden van het Digiteam
 
-Teamleden van het Digiteam.
+Zij zijn wel deel van de interne werking.
 
-#### Wat
+#### Wat: wiki om _work in progress_ die later publiek mag bij te houden.
 
 Delen van gestructureerde informatie \(≠ documenten\) voor teamleden in het Digiteam; waar informatie in zit die in een later stadium gedeeld kan worden – maar nu bijvoorbeeld tests kan "compromitteren" als deze informatie nu al publiek is.
 
-Voorbeeld private wiki, to be discussed:  
-[https://app.gitbook.com/@abb-vlaanderen/s/wiki-lblod-digiteam/](https://app.gitbook.com/@abb-vlaanderen/s/wiki-lblod-digiteam/)
-
-### \[sharepoint\] Documenten & Gevoelige informatie
+## \[sharepoint\] Documenten & Gevoelige informatie
 
 Screenings van lokale besturen, voorbereidende nota's en andere documenten horen thuis op de sharepoint. Gevoelige informatie zoals user testing en persoonlijke data ook.
+
+## \[vlaanderen websites\] Publieke juridische achtergrond voor ambtenaren in lokale besturen
+
+Juridische achtergrond, decreten, ... Hoort thuis op [https://lokaalbestuur.vlaanderen.be/](https://lokaalbestuur.vlaanderen.be/).
 
