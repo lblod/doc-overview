@@ -79,22 +79,5 @@ Gevoelige informatie zoals user testing. Hoort thuis op de private Sharepoint.
 Neem contact op met Miet.
 {% endhint %}
 
-## `[to be discussed]` De nood aan uniforme URL's
-
-**Voorbeeld**  
-[abb-vlaanderen.gitbook.io/handleiding-toegankelijk-vlaanderen-invoerapp](https://abb-vlaanderen.gitbook.io/handleiding-toegankelijk-vlaanderen-invoerapp/)  
-doc.toegankelijk.lblod.info \[in progress\]  
-doc.toegankelijk.vlaanderen.be \[doel, na overleg\]
-
-#### Vraagstuk; hoe dit te rijmen met verschillende informatiestromen?
-
-* vb. **doc.toegankelijk.vlaanderen.be/handleiding** + **doc.toegankelijk.vlaanderen.be/feauture-passports**
-  * alles op "doc" link zetten: niet altijd relevant om al die informatie te delen?
-  * handleidingen VS feature passports, doelpubliek nood aan al die informatie op een plek?
-* vb. **doc.toegankelijk.vlaanderen.be** + **feature-passports.toegankelijk.vlaanderen.be**
-  * voor elke nood een aparte domeinnaam; veel werk, veel te schalen op dommeinnaam
-  * kan dit opgevangen worden in de structuur ipv de domeinnaam?
-  * Is het nodig om al de domeinnamen te splitsen?
-
 ## 
 
