@@ -13,7 +13,7 @@ We houden geen .gitbook.io extensie om phishing en valse informatie tegen te gaa
 * `Handleiding` = handleiding + eventueel release notes / roadmap
 * `Doc` = context, feature passports, discussies, informatie voor interne & externe bouwers
 * `Wiki` = algemene “kaart” om naar de verschillende wiki’s, handleidingen, repo’s etc te geraken. Hier is er maar een van.
-* `Intern team` = wiki in progress, outlines voor user testing
+* `Intern team` = wiki voor in informatie progress, outlines voor user testing \(geen gevoelige data\)
   * Een interne, niet-publieke gitbook heeft geen aparte URL nodig – je moet sowieso ingelogd zijn om dit te mogen bekijken.
 * `Github respository` = we trekken de code van gitbook hier binnen om ervoor te zorgen dat, moest gitbook ooit stoppen, wij nog steeds deze informatie kunnen bijhouden.
 
@@ -44,7 +44,6 @@ Geeft context voor _alle_ mensen – intern en extern – die mee bouwen aan onz
   * `Toekomst` lblod url: wiki.abb.lblod.info
   * `Toekomst` Vlaanderen URL: wiki.abb.vlaanderen.be 
   * Github repository: TODO 
-* `te verplaatsen onder algemene wiki` handleiding.gitbook.abb.lblod.info 
 * `te verplaatsen onder algemene wiki` handleiding.gitbook.abb.lblod.info 
 
 ### **LBLOD**
@@ -88,16 +87,15 @@ Breder dan GN alleen, omvat ook integraties met andere producten en diensten.
   * `Toekomst` lblod url: doc.loket.lblod.info
   * `Toekomst` Vlaanderen URL: doc.loket.lokaalbestuur.vlaanderen.be
 
-### **Erediensten**   
+### **Toegankelijk Vlaanderen**
 
-* **Handleiding** – bestaat nog niet
-  * `Toekomst` gitbook URL: abb-vlaanderen.gitbook.io/handleiding-erediensten
-  * `Toekomst` lblod url: handleiding.erediensten.lblod.info
-  * `Toekomst` Vlaanderen URL: handleiding.erediensten.vlaanderen.be 
-* **Doc** – bestaat nog niet
-  * `Toekomst` gitbook URL: abb-vlaanderen.gitbook.io/doc-erediensten
-  * `Toekomst` lblod url: doc.erediensten.lblod.info
-  * `Toekomst` Vlaanderen URL: doc.erediensten.vlaanderen.be
+* `bestaat` **Handleiding invoer applicatie**
+  * Huidige gitbook URL: [https://abb-vlaanderen.gitbook.io/handleiding-toegankelijk-vlaanderen-invoerapp/](https://abb-vlaanderen.gitbook.io/handleiding-toegankelijk-vlaanderen-invoerapp/)
+  * `Toekomst` gitbook URL: abb-vlaanderen.gitbook.io/handleiding-toegankelijk-vlaanderen
+  * `Toekomst` lblod url: handleiding.toegankelijk.lblod.info/handleiding-toegankelijk-vlaanderen
+  * `Toekomst` Vlaanderen URL: handleiding.toegankelijk.vlaanderen.be 
+  * Gitbook repository: TODO
+* **Doc**: Andere plek **\[TODO: link voorzien\]**
 
 ### Organisatieportaal \(**ContactHUB**\)
 
@@ -112,22 +110,23 @@ Breder dan GN alleen, omvat ook integraties met andere producten en diensten.
   * `Toekomst` Vlaanderen URL: doc.organisaties.vlaanderen.be 
   * Gitbook repository: TODO
 
+### **Erediensten**   
+
+* **Handleiding** – bestaat nog niet
+  * `Toekomst` gitbook URL: abb-vlaanderen.gitbook.io/handleiding-erediensten
+  * `Toekomst` lblod url: handleiding.erediensten.lblod.info
+  * `Toekomst` Vlaanderen URL: handleiding.erediensten.vlaanderen.be 
+* **Doc** – bestaat nog niet
+  * `Toekomst` gitbook URL: abb-vlaanderen.gitbook.io/doc-erediensten
+  * `Toekomst` lblod url: doc.erediensten.lblod.info
+  * `Toekomst` Vlaanderen URL: doc.erediensten.vlaanderen.be
+
 ### **Kaleidos**
 
 * `bestaat` **Handleiding**
   * Gitbook URL: [https://abb-vlaanderen.gitbook.io/handleiding-kalliope](https://abb-vlaanderen.gitbook.io/handleiding-kalliope)
   * `Toekomst` lblod url: handleiding.kaleidos.lblod.info
   * `Toekomst` Vlaanderen URL: handleiding.kaleidos.vlaanderen.be 
-  * Gitbook repository: TODO
-* **Doc**: Andere plek **\[TODO: link voorzien\]**
-
-### **Toegankelijk Vlaanderen**
-
-* `bestaat` **Handleiding invoer applicatie**
-  * Huidige gitbook URL: [https://abb-vlaanderen.gitbook.io/handleiding-toegankelijk-vlaanderen-invoerapp/](https://abb-vlaanderen.gitbook.io/handleiding-toegankelijk-vlaanderen-invoerapp/)
-  * `Toekomst` gitbook URL: abb-vlaanderen.gitbook.io/handleiding-toegankelijk-vlaanderen
-  * `Toekomst` lblod url: handleiding.toegankelijk.lblod.info/handleiding-toegankelijk-vlaanderen
-  * `Toekomst` Vlaanderen URL: handleiding.toegankelijk.vlaanderen.be 
   * Gitbook repository: TODO
 * **Doc**: Andere plek **\[TODO: link voorzien\]**
 
