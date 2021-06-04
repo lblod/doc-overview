@@ -19,11 +19,22 @@ We houden geen .gitbook.io extensie om phishing en valse informatie tegen te gaa
 
 ### Url's
 
-* `Huidige gitbook URL`: hoe de pagina initieel werd aangemaakt.
-* `Toekomstige gitbook URL`: we hebben een meer overzichtelijke structuur gevonden om de spaces in op te delen. We veranderen de namen binnenkort – en zal de "huidige" structuur vervangen.
+* `Gitbook URL`
+  * Structuur: abb-vlaanderen.gitbook.io/typesite-naamproduct
+  * Voorbeeld: abb-vlaanderen.gitbook.io/handleiding-gelinkt-notuleren
+  * `Huidige gitbook URL`: hoe de pagina initieel werd aangemaakt.
+  * `Toekomstige gitbook URL`: we hebben een meer overzichtelijke structuur gevonden om de spaces in op te delen. We veranderen de namen binnenkort – en zal de "huidige" structuur vervangen.
 * `LBLOD URL`: tussentijdse oplossing om ervoor te zorgen dat we misinformatie in phishing tegengaan. Iemand anders kan eenvoudig een gelijkaardige gitbook.io opzetten – haalt geloofwaardigheid onderuit.
+  * Structuur: typesite.naamproduct.lblod.info
+  * Voorbeeld: handleiding.gelinkt-notuleren.lblod.info
+  * Hier bestaan uitzonderingen.
 * `Vlaanderen URL`: hier willen we uiteindelijk onze gitbooks op plaatsen; zodat we het officiële karakter kunnen onderstrepen.
+  * Structuur: typesite.naamproduct.vlaanderen.be
+  * Voorbeeld: handleiding.gelinkt-notuleren.vlaanderen.be
+  * Hier bestaan uitzonderingen.
 * `Custom URL`: sommige producten wil je vrij positioneren als product op zich om duidelijk te maken dat je dit ook buiten de overheid kan gebruiken – met Vlaanderen als partner.
+  * Structuur: naamproduct.com/be
+  * Voorbeeld: [https://say-editor.com/](https://say-editor.com/)
 
 ## URL's voor de verschillende producten & diensten
 
@@ -152,5 +163,12 @@ Mogelijk beter onderbrengen in algemene team wiki; aangezien dit een methodologi
 
 * `bestaat` **Doc**
   * Huidige gitbook URL: [https://abb-vlaanderen.gitbook.io/abb-test-framework/](https://abb-vlaanderen.gitbook.io/abb-test-framework/) 
+* **Handleiding**: niet nodig.
+
+#### Say Editor
+
+* `bestaat` **Doc**
+  * Custom domein: [https://say-editor.com/](https://say-editor.com/)
+  * Github respostiroy: [https://github.com/lblod/frontend-say-editor-documentation](https://github.com/lblod/frontend-say-editor-documentation) 
 * **Handleiding**: niet nodig.
 
