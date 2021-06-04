@@ -24,6 +24,8 @@ Digiteam, toekomstige collega's, mensen die samenwerken met het Digiteam \(ander
 
 {% embed url="https://abb-vlaanderen.gitbook.io/abb" %}
 
+#### 
+
 ## \[gitbook\] Handleidingen
 
 ### Voor wie: gebruikers van applicaties en diensten van ABB.
@@ -41,6 +43,10 @@ Voorbeelden, nog gelijk te trekken:
 {% hint style="info" %}
 Bepaalde contextuele informatie komt ook in **nieuwsbrieven**, op **YouTube**, of op de **website** \(lokaalbestuur.vlaanderen.be\) terecht. Die kunnen hier ook gelinked worden in gitbook, maar **gitbook gaat over specifieke productinformatie**.
 {% endhint %}
+
+## Publieke juridische achtergrond voor ambtenaren in lokale besturen
+
+Juridische achtergrond, decreten, ... Hoort thuis op [https://lokaalbestuur.vlaanderen.be/](https://lokaalbestuur.vlaanderen.be/).
 
 ## \[gitbook\] Specialistische, publieke informatie voor betrokken partijen in Gitbook
 
@@ -68,8 +74,4 @@ Delen van gestructureerde informatie \(≠ documenten\) voor teamleden in het Di
 ## \[sharepoint\] Documenten & Gevoelige informatie
 
 Screenings van lokale besturen, voorbereidende nota's en andere documenten horen thuis op de sharepoint. Gevoelige informatie zoals user testing en persoonlijke data ook.
-
-## \[vlaanderen websites\] Publieke juridische achtergrond voor ambtenaren in lokale besturen
-
-Juridische achtergrond, decreten, ... Hoort thuis op [https://lokaalbestuur.vlaanderen.be/](https://lokaalbestuur.vlaanderen.be/).
 
