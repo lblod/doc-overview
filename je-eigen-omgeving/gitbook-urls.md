@@ -1,7 +1,7 @@
 # Gitbook URL's
 
 {% hint style="info" %}
-De **lblod.info** URL's die voorgesteld worden zijn een tussenfase; in een latere fase gaan we over naar een _**.vlaanderen.be**_ domein.
+De **lblod.info** URL's die voorgesteld worden zijn een tussenfase; in een latere fase gaan we over naar een **vlaanderen.be** domein.
 
 We houden geen .gitbook.io extensie om phishing en valse informatie tegen te gaan.
 {% endhint %}
