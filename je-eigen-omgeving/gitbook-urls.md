@@ -12,8 +12,8 @@ We houden geen .gitbook.io extensie om phishing en valse informatie tegen te gaa
 
 * `Handleiding` = handleiding + eventueel release notes / roadmap
 * `Doc` = context, feature passports, discussies, informatie voor interne & externe bouwers
-* `Wiki` = algemene “kaart” om naar de verschillende wiki’s, handleidingen, repo’s etc te geraken.
-* `Intern` = wiki in progress, outlines voor user testing
+* `Wiki` = algemene “kaart” om naar de verschillende wiki’s, handleidingen, repo’s etc te geraken. Hier is er maar een van.
+* `Intern team` = wiki in progress, outlines voor user testing
   * Een interne, niet-publieke gitbook heeft geen aparte URL nodig – je moet sowieso ingelogd zijn om dit te mogen bekijken.
 * `Github respository` = we trekken de code van gitbook hier binnen om ervoor te zorgen dat, moest gitbook ooit stoppen, wij nog steeds deze informatie kunnen bijhouden.
 
