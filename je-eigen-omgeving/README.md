@@ -34,9 +34,7 @@ Digiteam, toekomstige collega's, mensen die samenwerken met het Digiteam \(ander
 
 Een open plek, waar je niet voor moet inloggen, om informatie zoals **handleidingen** en eventueel **release notes** of **roadmap** te delen. **Waarom** de applicatie bestaat, voor welke **doeleinden** kan ook op deze pagina terecht komen.  
   
-Voorbeelden, nog gelijk te trekken:  
-- [https://abb-vlaanderen.gitbook.io/gelinkt-notuleren-handleiding](https://abb-vlaanderen.gitbook.io/gelinkt-notuleren-handleiding)  
-- [https://abb-vlaanderen.gitbook.io/handleiding-toegankelijk-vlaanderen-invoerapp](https://abb-vlaanderen.gitbook.io/handleiding-toegankelijk-vlaanderen-invoerapp)
+Voorbeeld: [https://abb-vlaanderen.gitbook.io/handleiding-loket](https://abb-vlaanderen.gitbook.io/handleiding-loket)
 
 {% hint style="info" %}
 Bepaalde contextuele informatie komt ook in **nieuwsbrieven**, op **YouTube**, of op de **website** \(lokaalbestuur.vlaanderen.be\) terecht. Die kunnen hier ook gelinked worden in gitbook, maar **gitbook gaat over specifieke productinformatie**.
@@ -52,6 +50,8 @@ Voor partners zoals softwareleveranciers, open source enthousiastelingen en ande
 
 Delen van informatie die helpt om de applicaties mee te bouwen – zoals schermen en beslissingen.
 
+Voorbeeld: [https://abb-vlaanderen.gitbook.io/feature-passports-ch ](https://abb-vlaanderen.gitbook.io/feature-passports-ch%20)
+
 ## \[gitbook\] Digiteam Wiki's – afgeschermde informatie
 
 ### Voor wie: Teamleden van het Digiteam
@@ -61,6 +61,8 @@ Zij zijn wel deel van de interne werking.
 ### Wat: wiki om _work in progress_ die later publiek mag bij te houden.
 
 Delen van gestructureerde informatie \(≠ documenten\) voor teamleden in het Digiteam; waar informatie in zit die in een later stadium gedeeld kan worden – maar nu bijvoorbeeld tests kan "compromitteren" als deze informatie nu al publiek is.
+
+Voorbeeld: [https://app.gitbook.com/wiki-lblod-digiteam](https://app.gitbook.com/wiki-lblod-digiteam) \(je dient ingelogd te zijn\)
 
 ## \[sharepoint\] Documenten & Gevoelige informatie
 
