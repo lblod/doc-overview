@@ -66,9 +66,21 @@ Voorbeeld: [https://app.gitbook.com/wiki-lblod-digiteam](https://app.gitbook.com
 
 ## \[sharepoint\] Documenten & Gevoelige informatie
 
+### Voor wie: intern ABB
+
+Enkel internen kunnen hier aan.
+
+### Wat: documenten en gevoelige informatie
+
 Screenings van lokale besturen, voorbereidende nota's en andere documenten horen thuis op de sharepoint. Gevoelige informatie zoals user testing en persoonlijke data ook.
 
 ## \[vlaanderen websites\] Publieke juridische achtergrond voor ambtenaren in lokale besturen
+
+### Voor wie: iedereen die juridische achtergrond en decreten nodig heeft.
+
+Vooral lokale besturen, internen bij ABB en partners.
+
+### Wat: achtergrond, decreten, ...
 
 Juridische achtergrond, decreten, ... Hoort thuis op [https://lokaalbestuur.vlaanderen.be/](https://lokaalbestuur.vlaanderen.be/).
 
