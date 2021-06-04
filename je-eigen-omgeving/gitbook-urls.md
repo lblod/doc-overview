@@ -40,7 +40,7 @@ Geeft context voor _alle_ mensen – intern en extern – die mee bouwen aan onz
 
 * `bestaat` **Wiki** __
   * Gitbook URL: [https://abb-vlaanderen.gitbook.io/abb](https://abb-vlaanderen.gitbook.io/abb)
-  * `Toekomst` Gitbook URL: http://abb-vlaanderen.gitbook.io/wiki-abb
+  * `Toekomst` Gitbook URL: abb-vlaanderen.gitbook.io/wiki-abb
   * `Toekomst` lblod url: wiki.abb.lblod.info
   * `Toekomst` Vlaanderen URL: wiki.abb.vlaanderen.be 
   * Github repository: TODO 
@@ -54,7 +54,7 @@ Breder dan GN alleen, omvat ook integraties met andere producten en diensten.
 * `bestaat` **Doc**
 
   * Huidige gitbook URL: [http://abb-vlaanderen.gitbook.io/feature-passports-lblod](http://abb-vlaanderen.gitbook.io/feature-passports-lblod)
-  * `Toekomst` gitbook URL: http://abb-vlaanderen.gitbook.io/doc-lblod
+  * `Toekomst` gitbook URL: abb-vlaanderen.gitbook.io/doc-lblod
   * `Toekomst` lblod url: doc.abb.lblod.info
   * `Toekomst` Vlaanderen URL: doc.lblod.vlaanderen.be 
   * Gitbook repository: TODO
@@ -62,15 +62,15 @@ Breder dan GN alleen, omvat ook integraties met andere producten en diensten.
 * **Handleiding**: / 
 * `bestaat` **Interne teamsite**
   * Huidige gitbook URL: [https://app.gitbook.com/wiki-lblod-digiteam](https://app.gitbook.com/wiki-lblod-digiteam)
-  * `Toekomstig` gitbook URL: https://app.gitbook.com/team-lblod
-  * Geen aparte links nodig – je moet ingelogd zijn. 
+  * `Toekomstig` gitbook URL: app.gitbook.com/team-lblod
+  * Geen aparte links nodig – je moet ingelogd zijn en leesrechten hebben. 
   * Gitbook repository: TODO
 
 ### **Gelinkt Notuleren**
 
 * `bestaat` **Handleiding**
   * Huidige gitbook URL: [https://abb-vlaanderen.gitbook.io/gelinkt-notuleren-handleiding](https://abb-vlaanderen.gitbook.io/gelinkt-notuleren-handleiding)
-  * `Toekomst` gitbook URL: http://abb-vlaanderen.gitbook.io/handleiding-gelinkt-notuleren
+  * `Toekomst` gitbook URL: abb-vlaanderen.gitbook.io/handleiding-gelinkt-notuleren
   * `Toekomst` lblod url: handleiding.gelinkt-notuleren.lblod.info
   * `Toekomst` vlaanderen url: handleiding.gelinkt-notuleren.vlaanderen.be 
   * Gitbook repository: TODO 
@@ -82,6 +82,7 @@ Breder dan GN alleen, omvat ook integraties met andere producten en diensten.
   * gitbook URL: [https://abb-vlaanderen.gitbook.io/handleiding-loket](https://abb-vlaanderen.gitbook.io/handleiding-loket)
   * `Toekomst` lblod url: handleiding.loket.lblod.info
   * `Toekomst` Vlaanderen URL: handleiding.loket.lokaalbestuur.vlaanderen.be 
+  * Gitbook repository: TODO 
 * **Doc** – bestaat nog niet
   * `Toekomst` gitbook URL: doc.loket.lblod.info
   * `Toekomst` lblod url: doc.loket.lblod.info
@@ -90,90 +91,65 @@ Breder dan GN alleen, omvat ook integraties met andere producten en diensten.
 ### **Erediensten**   
 
 * **Handleiding** – bestaat nog niet
-  * `Toekomst` gitbook URL: https://abb-vlaanderen.gitbook.io/handleiding-erediensten
+  * `Toekomst` gitbook URL: abb-vlaanderen.gitbook.io/handleiding-erediensten
   * `Toekomst` lblod url: handleiding.erediensten.lblod.info
   * `Toekomst` Vlaanderen URL: handleiding.erediensten.vlaanderen.be 
 * **Doc** – bestaat nog niet
-  * `Toekomst` gitbook URL: https://abb-vlaanderen.gitbook.io/doc-erediensten
+  * `Toekomst` gitbook URL: abb-vlaanderen.gitbook.io/doc-erediensten
   * `Toekomst` lblod url: doc.erediensten.lblod.info
   * `Toekomst` Vlaanderen URL: doc.erediensten.vlaanderen.be
 
 ### Organisatieportaal \(**ContactHUB**\)
 
-handleiding.organisatieportaal.lblod.info 
-
-\[bestaat\] doc.organisatieportaal.lblod.info 
-
-* `bestaat` **Handleiding**
-  * Huidige gitbook URL:
-  * Toekomstige gitbook URL:
-  * Toekomstige lblod url:
-  * Toekomstige Vlaanderen URL:  
+* **Handleiding** – bestaat nog niet
+  * `Toekomst` gitbook URL: abb-vlaanderen.gitbook.io/handleiding-organisaties
+  * `Toekomst` lblod url: handleiding.organisaties.lblod.info
+  * `Toekomst` Vlaanderen URL: handleiding.organisaties.vlaanderen.be
 * `bestaat` **Doc**
-  * Huidige gitbook URL:
-  * Toekomstige gitbook URL:
-  * Toekomstige lblod url:
-  * Toekomstige Vlaanderen URL: 
+  * Huidige gitbook URL: ****[https://abb-vlaanderen.gitbook.io/feature-passports-ch ](https://abb-vlaanderen.gitbook.io/feature-passports-ch%20)
+  * `Toekomst` gitbook URL: abb-vlaanderen.gitbook.io/doc-organisaties
+  * `Toekomst` lblod url: doc.organisaties.lblod.info
+  * `Toekomst` Vlaanderen URL: doc.organisaties.vlaanderen.be 
+  * Gitbook repository: TODO
 
 ### **Kaleidos**
 
-\[bestaat\] handleiding.kaleidos.lblod.info – handleiding kleidos
-
-\[onbestaand\] doc.kaleidos.lblod.info
-
 * `bestaat` **Handleiding**
-  * Huidige gitbook URL:
-  * Toekomstige gitbook URL:
-  * Toekomstige lblod url:
-  * Toekomstige Vlaanderen URL:  
+  * Gitbook URL: [https://abb-vlaanderen.gitbook.io/handleiding-kalliope](https://abb-vlaanderen.gitbook.io/handleiding-kalliope)
+  * `Toekomst` lblod url: handleiding.kaleidos.lblod.info
+  * `Toekomst` Vlaanderen URL: handleiding.kaleidos.vlaanderen.be 
+  * Gitbook repository: TODO
 * **Doc**: Andere plek **\[TODO: link voorzien\]**
 
 ### **Toegankelijk Vlaanderen**
 
-\[bestaat\] handleiding.toevla.lblod.info  – handleiding invoer
-
-\[onbestaand\] doc.toevla.lblod.info
-
-\*\*\*\*
-
-  
-
-* `bestaat` **Handleiding**
-  * Huidige gitbook URL:
-  * Toekomstige gitbook URL:
-  * Toekomstige lblod url:
-  * Toekomstige Vlaanderen URL:  
-* `bestaat` **Doc**
-  * Huidige gitbook URL:
-  * Toekomstige gitbook URL:
-  * Toekomstige lblod url:
-  * Toekomstige Vlaanderen URL: 
+* `bestaat` **Handleiding invoer applicatie**
+  * Huidige gitbook URL: [https://abb-vlaanderen.gitbook.io/handleiding-toegankelijk-vlaanderen-invoerapp/](https://abb-vlaanderen.gitbook.io/handleiding-toegankelijk-vlaanderen-invoerapp/)
+  * `Toekomst` gitbook URL: abb-vlaanderen.gitbook.io/handleiding-toegankelijk-vlaanderen
+  * `Toekomst` lblod url: handleiding.toegankelijk.lblod.info/handleiding-toegankelijk-vlaanderen
+  * `Toekomst` Vlaanderen URL: handleiding.toegankelijk.vlaanderen.be 
+  * Gitbook repository: TODO
+* **Doc**: Andere plek **\[TODO: link voorzien\]**
 
 ### **Specifieke producten en diensten \(uitbreidbaar\)**
 
 #### **Appuniversum**
 
-* `bestaat` **Doc**
-  * Huidige gitbook URL:
-  * Toekomstige gitbook URL:
-  * Toekomstige lblod url: doc.appuniversum.lblod.info
-  * Toekomstige URL:  
-* **Handleiding**: niet nodig; daar dienen de specifieke GitHub sites voor. \[TODO: Links voorzien\]
+* `bestaat` **Handleiding**
+  * Gitbook URL: [https://abb-vlaanderen.gitbook.io/handleiding-appuniversum/](https://abb-vlaanderen.gitbook.io/handleiding-appuniversum/)
+  * `Toekomst` lblod url: handleiding.appuniversum.lblod.info
+  * `Toekomst` URL: handleiding.appuniversum.vlaanderen.be 
+* **Handleiding**: niet nodig; daar dienen de specifieke GitHub sites voor.
+  * [https://appuniversum.github.io/ember-appuniversum/](https://appuniversum.github.io/ember-appuniversum/)
+  * [https://appuniversum.github.io/appuniversum/](https://appuniversum.github.io/appuniversum/)
 
 #### Test framework
 
-* Huidige gitbook URL: [https://abb-vlaanderen.gitbook.io/abb-test-framework/](https://abb-vlaanderen.gitbook.io/abb-test-framework/)
-* Toekomstige gitbook URL:
-* Toekomst lblod URL:
-* Toekomst Vlaanderen URL: 
-* `bestaat` **Handleiding**
-  * Huidige gitbook URL:
-  * Toekomstige gitbook URL:
-  * Toekomstige lblod url:
-  * Toekomstige Vlaanderen URL:  
+{% hint style="danger" %}
+Mogelijk beter onderbrengen in algemene team wiki; aangezien dit een methodologie is en geen alleenstaand product.
+{% endhint %}
+
 * `bestaat` **Doc**
-  * Huidige gitbook URL:
-  * Toekomstige gitbook URL:
-  * Toekomstige lblod url:
-  * Toekomstige Vlaanderen URL: 
+  * Huidige gitbook URL: [https://abb-vlaanderen.gitbook.io/abb-test-framework/](https://abb-vlaanderen.gitbook.io/abb-test-framework/) 
+* **Handleiding**: niet nodig.
 
