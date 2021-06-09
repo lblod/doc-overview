@@ -4,97 +4,87 @@ description: 'Bekijk hoe anderen het aanpakken:'
 
 # Zet je eigen Gitbook omgeving op
 
-## \[`in progress]` Wat we aanbieden voor het Digiteam 
+## Mogelijkheden van informatie delen in het Digiteam
+
+1. \*\*\*\*[**Vlaanderen websites**](./#vlaanderen-websites-publieke-juridische-achtergrond-voor-ambtenaren-in-lokale-besturen) Algemene, publieke, juridische achtergrond.
+2. \*\*\*\*[**Sharepoint**](./#sharepoint-documenten-and-gevoelige-informatie) Documenten en gevoelige informatie.
+3. \*\*\*\*[**Gitbook**](./#gitbook-informatie-open-delen) Informatie open delen met internen en externen die mee willen bouwen aan de producten en oplossingen binnen ABB.
 
 ![Informatiestromen](../.gitbook/assets/knowledge-base-informatiestromen.png)
 
-### 0. Gedeelde, niet-privacy-gevoelige informatie die onze teamwerking verduidelijkt
+## \[vlaanderen websites\] Publieke juridische achtergrond voor ambtenaren in lokale besturen
 
-#### Voor wie
+### Voor wie: iedereen die juridische achtergrond en decreten nodig heeft.
 
-Iedereen: Digiteam, toekomstige collega's, mensen die samenwerken met het Digiteam \(andere departementen, software leveranciers\).
+Vooral lokale besturen, internen bij ABB en partners.
 
-#### Wat
+### Wat: achtergrond, decreten, ...
 
-Tooling, producten, architectuur, ...
+Juridische achtergrond, decreten, ... Hoort thuis op [https://lokaalbestuur.vlaanderen.be/](https://lokaalbestuur.vlaanderen.be/).
+
+## \[sharepoint\] Documenten & Gevoelige informatie
+
+### Voor wie: intern ABB
+
+Enkel internen kunnen hier aan.
+
+### Wat: documenten en gevoelige informatie
+
+Screenings van lokale besturen, voorbereidende nota's en andere documenten horen thuis op de sharepoint. Gevoelige informatie zoals user testing en persoonlijke data ook.
+
+## \[gitbook\] Informatie open delen
+
+### Algemene ABB Wiki: een kaart
+
+#### Wat: een kaart
+
+Gedeelde, niet-privacy-gevoelige informatie die onze teamwerking verduidelijkt. Tooling, producten, architectuur, ... Fungeert als kaart om te navigeren naar informatie over en werking van verschillende producten
+
+#### Voor wie: iedereen die mee wil bouwen aan de producten en diensten van ABB.
+
+Digiteam, toekomstige collega's, mensen die samenwerken met het Digiteam \(andere departementen, software leveranciers\).
 
 {% embed url="https://abb-vlaanderen.gitbook.io/abb" %}
 
-#### 
+### Handleidingen voor gebruikers
 
-### 1. `[to be discussed – aparte url of link?]` Publieke productinformatie voor ambtenaren van lokale besturen in Gitbook
+#### Voor wie: gebruikers van applicaties en diensten van ABB.
 
-#### Voor wie
+ Deze gebruikersgroep is niet dicht betrokken bij het ontwikkelen van de producten.
 
-Voor gebruikers van de applicaties. Deze gebruikersgroep is niet dicht betrokken bij het ontwikkelen van de producten.
+#### Wat: werking producten en diensten ABB
 
-#### Wat
-
-Die informatie willen zoals **handleidingen** en eventueel **release notes**. **Waarom** de applicatie bestaat, voor welke **doeleinden** kan ook op deze pagina terecht komen.  
+Een open plek, waar je niet voor moet inloggen, om informatie zoals **handleidingen** en eventueel **release notes** of **roadmap** te delen. **Waarom** de applicatie bestaat, voor welke **doeleinden** kan ook op deze pagina terecht komen.  
   
-Voorbeelden, nog gelijk te trekken:  
-- [https://abb-vlaanderen.gitbook.io/gelinkt-notuleren-handleiding](https://abb-vlaanderen.gitbook.io/gelinkt-notuleren-handleiding)  
-- [https://abb-vlaanderen.gitbook.io/handleiding-toegankelijk-vlaanderen-invoerapp](https://abb-vlaanderen.gitbook.io/handleiding-toegankelijk-vlaanderen-invoerapp)
+Voorbeeld: [https://abb-vlaanderen.gitbook.io/handleiding-loket](https://abb-vlaanderen.gitbook.io/handleiding-loket)
 
 {% hint style="info" %}
 Bepaalde contextuele informatie komt ook in **nieuwsbrieven**, op **YouTube**, of op de **website** \(lokaalbestuur.vlaanderen.be\) terecht. Die kunnen hier ook gelinked worden in gitbook, maar **gitbook gaat over specifieke productinformatie**.
 {% endhint %}
 
-### 2. Publieke juridische achtergrond voor ambtenaren in lokale besturen
+### Documentatie: specialistische, publieke informatie voor betrokken partijen in Gitbook
 
-Juridische achtergrond, decreten, ... Hoort thuis op [https://lokaalbestuur.vlaanderen.be/](https://lokaalbestuur.vlaanderen.be/).
+#### Voor wie: externen die mee bouwen aan onze open source oplossingen
 
-### 3. `[to be discussed – aparte url of link?]` Specialistische, publieke informatie voor betrokken partijen in Gitbook
+Voor partners zoals softwareleveranciers, open source enthousiastelingen en andere departementen die mee bouwen aan softwareoplossingen.
 
-#### Voor wie
+Dit is vooral van toepassing op de _open source_ producten die we bouwe; om mensen die niet rechtstreeks betrokken zijn met ABB of het Digiteam ook een kans te geven om mee te ontwikkelen. Het doel van onze open source tooling is dat anderen die gebruiken, en ook beter maken.
 
-Voor partners zoals softwareleveranciers en andere departementen die mee bouwen aan softwareoplossingen.
+#### Wat: architectuur – context scheppen over hoe onze applicaties en diensten gebouwd worden.
 
-#### Wat
+Delen van informatie die helpt om de applicaties mee te bouwen – zoals schermen en beslissingen.
 
-Delen van informatie die helpt om de applicaties mee te bouwen.  
-  
-Voorbeelden, nog gelijk te trekken:  
-- [https://abb-vlaanderen.gitbook.io/feature-passports-lblod](https://abb-vlaanderen.gitbook.io/feature-passports-lblod)
+Voorbeeld: [https://abb-vlaanderen.gitbook.io/feature-passports-ch ](https://abb-vlaanderen.gitbook.io/feature-passports-ch%20)
 
-### 4. `[to be discussed – Sharepoint of Gitbook?]` Digiteam Wiki – afgeschermde informatie
+### Digiteam Wiki's – afgeschermde informatie
 
-#### Voor wie
+#### Voor wie: Teamleden van het Digiteam
 
-Teamleden van het Digiteam.
+Zij zijn wel deel van de interne werking.
 
-#### Wat
+#### Wat: wiki om _work in progress_ die later publiek mag bij te houden.
 
 Delen van gestructureerde informatie \(≠ documenten\) voor teamleden in het Digiteam; waar informatie in zit die in een later stadium gedeeld kan worden – maar nu bijvoorbeeld tests kan "compromitteren" als deze informatie nu al publiek is.
 
-Voorbeeld private wiki, to be discussed:  
-[https://app.gitbook.com/@abb-vlaanderen/s/wiki-lblod-digiteam/](https://app.gitbook.com/@abb-vlaanderen/s/wiki-lblod-digiteam/)
-
-### 5. Gevoelige informatie
-
-Gevoelige informatie zoals user testing. Hoort thuis op de private Sharepoint.
-
-{% hint style="info" %}
-**Meer informatie te delen, maar geen plek?**  
-Neem contact op met Miet.
-{% endhint %}
-
-## `[to be discussed]` De nood aan uniforme URL's
-
-**Voorbeeld**  
-[abb-vlaanderen.gitbook.io/handleiding-toegankelijk-vlaanderen-invoerapp](https://abb-vlaanderen.gitbook.io/handleiding-toegankelijk-vlaanderen-invoerapp/)  
-doc.toegankelijk.lblod.info \[in progress\]  
-doc.toegankelijk.vlaanderen.be \[doel, na overleg\]
-
-#### Vraagstuk; hoe dit te rijmen met verschillende informatiestromen?
-
-* vb. **doc.toegankelijk.vlaanderen.be/handleiding** + **doc.toegankelijk.vlaanderen.be/feauture-passports**
-  * alles op "doc" link zetten: niet altijd relevant om al die informatie te delen?
-  * handleidingen VS feature passports, doelpubliek nood aan al die informatie op een plek?
-* vb. **doc.toegankelijk.vlaanderen.be** + **feature-passports.toegankelijk.vlaanderen.be**
-  * voor elke nood een aparte domeinnaam; veel werk, veel te schalen op dommeinnaam
-  * kan dit opgevangen worden in de structuur ipv de domeinnaam?
-  * Is het nodig om al de domeinnamen te splitsen?
-
-## 
+Voorbeeld: [https://app.gitbook.com/wiki-lblod-digiteam](https://app.gitbook.com/wiki-lblod-digiteam) \(je dient ingelogd te zijn\)
 
