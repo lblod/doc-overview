@@ -1,8 +1,10 @@
 ---
-description: Hoe gebruik je Gitbook voor jouw handleiding?
+description: >-
+  Hoe gebruik je Gitbook voor jouw handleiding en wiki's voor open source
+  producten?
 ---
 
-# Handleiding Gitbook voor Handleidingen
+# Handleiding Gitbook
 
 Deze handleiding bestaat om mensen binnen ABB te ondersteunen bij het delen van informatie over _open source_ producten. Ben je niet zeker of GitBook iets voor jou is? Bezoek de [Waarom en voor wie](waarom-en-voor-wie.md) pagina.
 

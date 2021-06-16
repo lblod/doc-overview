@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Handleiding Gitbook voor Handleidingen](README.md)
+* [Handleiding Gitbook](README.md)
 * [Waarom en voor wie](waarom-en-voor-wie.md)
 * [Zet je eigen Gitbook omgeving op](je-eigen-omgeving/README.md)
   * [Gitbook URL's](je-eigen-omgeving/gitbook-urls.md)
