@@ -6,7 +6,7 @@ description: >-
 
 # Handleiding Gitbook
 
-Deze handleiding bestaat om mensen binnen ABB te ondersteunen bij het delen van informatie over _open source_ producten. Ben je niet zeker of GitBook iets voor jou is? Bezoek de [Waarom en voor wie](waarom-en-voor-wie.md) pagina.
+Deze handleiding bestaat om mensen binnen ABB te ondersteunen bij het delen van informatie over _open source_ producten. Ben je niet zeker of GitBook iets voor jou is? Bezoek de [Waarom en voor wie](gitbook-voor-abb/waarom-en-voor-wie.md) pagina.
 
 ## Belangrijk om te weten​
 
@@ -28,11 +28,11 @@ _Meer informatie nodig? Mail naar_ [_miet@miet.be_](mailto:miet@miet.be) _en ik 
 
 {% page-ref page="hoe-het-werkt/toegang-krijgen-tot-een-handleiding.md" %}
 
-## Inspiratie
+## Gitbook voor jou
 
-Raak geïnspireerd door andere handleidingen
+Bekijk wanneer Gitbook handig kan zijn voor jou.
 
-{% page-ref page="je-eigen-omgeving/" %}
+{% page-ref page="gitbook-voor-abb/je-eigen-omgeving/" %}
 
 ## Printen
 

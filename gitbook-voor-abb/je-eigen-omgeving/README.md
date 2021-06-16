@@ -10,7 +10,7 @@ description: 'Bekijk hoe anderen het aanpakken:'
 2. \*\*\*\*[**Sharepoint**](./#sharepoint-documenten-and-gevoelige-informatie) Documenten en gevoelige informatie.
 3. \*\*\*\*[**Gitbook**](./#gitbook-informatie-open-delen) Informatie open delen met internen en externen die mee willen bouwen aan de open source producten en oplossingen binnen ABB.
 
-![Informatiestromen](../.gitbook/assets/knowledge-base-informatiestromen.png)
+![Informatiestromen](../../.gitbook/assets/knowledge-base-informatiestromen.png)
 
 ## \[vlaanderen websites\] Publieke juridische achtergrond voor ambtenaren in lokale besturen
 
