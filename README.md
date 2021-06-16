@@ -6,7 +6,7 @@ description: >-
 
 # Handleiding Gitbook
 
-Deze handleiding bestaat om mensen binnen ABB te ondersteunen bij het delen van informatie over _open source_ producten. Ben je niet zeker of GitBook iets voor jou is? Bezoek de [Waarom en voor wie](gitbook-voor-abb/waarom-en-voor-wie.md) pagina.
+Deze handleiding bestaat om mensen binnen ABB te ondersteunen bij het delen van informatie over _open source_ producten. Ben je niet zeker of GitBook iets voor jou is? Bezoek de [Waarom en voor wie](gitbook-voor-abb/waarom-en-voor-wie/) pagina.
 
 ## Belangrijk om te weten​
 

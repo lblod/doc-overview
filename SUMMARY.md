@@ -12,7 +12,8 @@
 
 ## Gitbook voor ABB
 
-* [Waarom en voor wie](gitbook-voor-abb/waarom-en-voor-wie.md)
+* [Waarom en voor wie](gitbook-voor-abb/waarom-en-voor-wie/README.md)
+  * [Welke informatie, voor wie](gitbook-voor-abb/waarom-en-voor-wie/welke-informatie-voor-wie.md)
 * [Zet je eigen Gitbook omgeving op](gitbook-voor-abb/je-eigen-omgeving/README.md)
   * [Gitbook URL's](gitbook-voor-abb/je-eigen-omgeving/gitbook-urls.md)
 

@@ -28,5 +28,5 @@ Hier spreken we ook ontwikkelaars aan die niet ingeschakeld werden om aan onze d
 
 ## Voor wie
 
-Productbouwers binnen ABB die open source producten bouwen kunnen gebruik maken van onze _space_. [Dit is gratis](../#is-gitbook-gratis), omdat GitBook gratis licenties geeft aan mensen en organisaties die open source tools bouwen.
+Productbouwers binnen ABB die open source producten bouwen kunnen gebruik maken van onze _space_. [Dit is gratis](../../#is-gitbook-gratis), omdat GitBook gratis licenties geeft aan mensen en organisaties die open source tools bouwen.
 
