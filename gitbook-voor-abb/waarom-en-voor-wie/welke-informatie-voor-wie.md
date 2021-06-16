@@ -33,7 +33,7 @@
           <li>lokale besturen</li>
           <li>burgers</li>
           <li>(eind)gebruikers</li>
-          <li>leveranciers</li>
+          <li>Software leveranciers</li>
         </ul>
       </td>
     </tr>
@@ -65,7 +65,7 @@
           <li>lokale besturen</li>
           <li>ge&#xEB;ngageerde burgers</li>
           <li>(eind)gebruikers</li>
-          <li>leveranciers</li>
+          <li>Software leveranciers</li>
         </ul>
       </td>
     </tr>
@@ -92,6 +92,7 @@
           <li>Prospectie</li>
           <li>Onboarding</li>
           <li>Marketing</li>
+          <li>Open source contributies</li>
         </ul>
       </td>
       <td style="text-align:left">
@@ -103,6 +104,8 @@
           <li>ge&#xEB;ngageerde burgers</li>
           <li>klanten/gebruikers</li>
           <li>klantenadviesbureaus</li>
+          <li>Software leveranciers</li>
+          <li>Open source ontwikkelaars</li>
         </ul>
       </td>
     </tr>
@@ -128,6 +131,7 @@
           <li>Werking intern</li>
           <li>Klantvriendelijkheid</li>
           <li>Transparantie</li>
+          <li>Open source contributies</li>
         </ul>
         <p>Secundair:</p>
         <ul>
@@ -144,6 +148,8 @@
           <li>lokale besturen</li>
           <li>klanten/gebruikers</li>
           <li>klantenadviesbureaus</li>
+          <li>Software leverancieres</li>
+          <li>Open source ontwikkelaars</li>
         </ul>
       </td>
     </tr>
