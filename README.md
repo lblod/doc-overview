@@ -36,7 +36,13 @@ Raak geïnspireerd door andere handleidingen
 
 ## Printen
 
-Je kan elke pagina exporteren als PDF; moest dat ooit nodig zijn. Wil je meer controle over de layout? Gebruik de print-functionaliteit via je browser, en pas daar de interlinie, koppen en voeten aan. 
+Je kan elke pagina exporteren als PDF en dan printen; moest dat ooit nodig zijn.
+
+![Maak bovenaan rechts een PDF van deze gitbook om te printen.](.gitbook/assets/screenshot-2021-06-16-at-16.15.30.png)
+
+ Wil je meer controle over de layout? Gebruik de print-functionaliteit via je browser, en pas daar de interlinie, koppen en voeten aan. 
+
+![Printen in chrome met aangepaste layout.](.gitbook/assets/screenshot-2021-06-16-at-16.17.02.png)
 
 ## Source Code op Github
 
@@ -50,5 +56,5 @@ Omdat onze producten [open source zijn, is Gitbook gratis](https://docs.gitbook.
 
 ## Is Gitbook toegankelijk?
 
-We zijn momenteel de gegenereerde pagina's aan het screenen. 
+Gitbook werkt zelf momenteel hard aan toegankelijkheid. We zijn er ons van bewust dat [bepaalde functionaliteiten](https://www.w3.org/TR/WCAG21/) voor screenreaders nog niet optimaal zijn. We configureren de applicaties op een manier dat deze zo goed mogelijk toegankelijk zijn.
 
