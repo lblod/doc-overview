@@ -23,6 +23,7 @@
           <li>Prospectie</li>
           <li>Onboarding</li>
           <li>Marketing</li>
+          <li>Bewustmaking</li>
           <li>Transparantie</li>
         </ul>
       </td>
@@ -38,7 +39,7 @@
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Visie, missie<br />van het product / technische visie</b>
+      <td style="text-align:left"><b>Visie, missie<br />van het product </b>
       </td>
       <td style="text-align:left">
         <p></p>
@@ -46,8 +47,8 @@
         <ul>
           <li>Overzicht: <a href=" https://abb-vlaanderen.gitbook.io/abb/">Algemene wiki ABB</a>
           </li>
-          <li>Specifiek product: <a href="https://abb-vlaanderen.gitbook.io/abb/producten-en-diensten/gelinkt-notuleren">Productsite Gelinkt Notuleren</a>
-          </li>
+          <li>Specifiek product: <a href="https://abb-vlaanderen.gitbook.io/abb/producten-en-diensten/gelinkt-notuleren">Productsite Gelinkt Notuleren</a> &#x2013;
+            features en waarom</li>
         </ul>
       </td>
       <td style="text-align:left">
@@ -55,7 +56,9 @@
           <li>Prospectie</li>
           <li>Onboarding</li>
           <li>Marketing</li>
+          <li>Bewustmaking</li>
           <li>Transparantie</li>
+          <li>Open source contributies</li>
         </ul>
       </td>
       <td style="text-align:left">
@@ -70,15 +73,49 @@
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Strategie (product, technisch, team)</b>
+      <td style="text-align:left"><b>Algemene technische visie producten</b>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <p>Publieke Gitbook</p>
+        <ul>
+          <li>Overzicht: <a href=" https://abb-vlaanderen.gitbook.io/abb/">Algemene wiki ABB</a> &#x2013;
+            LOD, RDFa</li>
+          <li>Specifiek product: <a href="https://abb-vlaanderen.gitbook.io/abb/producten-en-diensten/gelinkt-notuleren">Productsite Gelinkt Notuleren</a> &#x2013;
+            technische mogelijkheden</li>
+        </ul>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>Prospectie</li>
+          <li>Onboarding</li>
+          <li>Marketing</li>
+          <li>Bewustmaking</li>
+          <li>Transparantie</li>
+          <li>Open source contributies</li>
+        </ul>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>(toekomstige) collega&apos;s</li>
+          <li>(toekomstige) partners / samenwerkingen</li>
+          <li>lokale besturen</li>
+          <li>ge&#xEB;ngageerde burgers</li>
+          <li>(eind)gebruikers</li>
+          <li>Software leveranciers</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Strategie (product, technisch)</b>
       </td>
       <td style="text-align:left">
         <p><a href=" https://abb-vlaanderen.gitbook.io/abb/">Wiki ABB</a>
         </p>
         <ul>
-          <li>Safe methodology = team strategy</li>
-          <li>Roadmap / impact map = product strategy</li>
-          <li>RDFa = technical strategy ..</li>
+          <li>Impact map = product strategy</li>
           <li>Presentaties</li>
         </ul>
         <p><em>Meer informatie nodig?</em>
@@ -106,6 +143,35 @@
           <li>klantenadviesbureaus</li>
           <li>Software leveranciers</li>
           <li>Open source ontwikkelaars</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Team werking</b>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <p><a href=" https://abb-vlaanderen.gitbook.io/abb/">Wiki ABB</a>
+        </p>
+        <ul>
+          <li>Safe methodology = team strategy</li>
+          <li>Presentaties</li>
+        </ul>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>Transparantie</li>
+          <li>Prospectie</li>
+          <li>Onboarding</li>
+        </ul>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>(toekomstige) partners en samenwerkingen</li>
+          <li>(toekomstige) collega&apos;s en partners</li>
+          <li>klantenadviesbureaus</li>
         </ul>
       </td>
     </tr>
@@ -152,6 +218,12 @@
           <li>Open source ontwikkelaars</li>
         </ul>
       </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
     </tr>
   </tbody>
 </table>
