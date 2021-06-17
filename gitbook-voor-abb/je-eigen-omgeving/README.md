@@ -12,6 +12,8 @@ Onderaan zie je een visuele representatie van de informatiestromen, naar wie dez
 
 ## Is GitBook iets voor jou?
 
+Gebruik deze beslissingsboom om te ontdekken of GitBook iets voor jouw team is. Betere voorbeelden nodig? Gebruik[ voorbeelden van informatie delen](../waarom-en-voor-wie/voorbeelden-van-informatie-delen.md).
+
 {% embed url="https://www.figma.com/file/qweKK3x3NmwDiCtK7ZcrDk/Applicatiearchitectuur-ABB?node-id=2723%3A0" %}
 
 
