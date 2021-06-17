@@ -1,6 +1,16 @@
-# Welke informatie, voor wie
+# Welke informatie, waar en voor wie
 
+## Welke informatie waar
 
+1. \*\*\*\*[**Vlaanderen websites**](../je-eigen-omgeving/#vlaanderen-websites-publieke-juridische-achtergrond-voor-ambtenaren-in-lokale-besturen) Algemene kadering, publieke, juridische achtergrond.
+2. \*\*\*\*[**Sharepoint**](../je-eigen-omgeving/#sharepoint-documenten-and-gevoelige-informatie) Documenten en gevoelige informatie.
+3. \*\*\*\*[**Gitbook**](../je-eigen-omgeving/#gitbook-informatie-open-delen) Publieke informatie open delen met internen \(bijvoorbeeld het digiteam en ontwikkelaars\) en externen \(mensen die onze oplossingen kunnen hergebruiken, zoals leveranciers en andere open source ontwikkelaars\) die mee bouwen aan de open source producten en oplossingen binnen ABB.
+
+Meer informatie en voorbeelden:
+
+{% page-ref page="voorbeelden-van-informatie-delen.md" %}
+
+## Welke informatie, voor wie
 
 <table>
   <thead>

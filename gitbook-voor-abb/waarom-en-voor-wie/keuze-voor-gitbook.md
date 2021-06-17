@@ -16,5 +16,5 @@ GitBook geeft ons de mogelijkheid om...
 * op een laagdrempelige manier, die open source oplossingen ondersteunt
 * op een manier die niet locked-in is \(link met GitHub, de code is van ons\).
 
-We staan open voor andere platformen, maar op dit moment hebben we nog geen betere oplossing gevonden.
+We staan open voor andere platformen, maar op dit moment hebben we nog geen betere oplossing gevonden. De oefening _welke informatie waar_ is nog in evolutie, en er zullen nog aanpassingen moeten gebeuren.
 

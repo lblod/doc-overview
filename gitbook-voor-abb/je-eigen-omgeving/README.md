@@ -2,7 +2,7 @@
 description: 'Bekijk hoe anderen het aanpakken:'
 ---
 
-# Zet je eigen Gitbook omgeving op
+# Zet je eigen GitBook omgeving op
 
 ## Mogelijkheden van informatie delen in het Digiteam
 
