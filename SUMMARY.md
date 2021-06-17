@@ -14,6 +14,7 @@
 
 * [Waarom en voor wie](gitbook-voor-abb/waarom-en-voor-wie/README.md)
   * [Welke informatie, voor wie](gitbook-voor-abb/waarom-en-voor-wie/welke-informatie-voor-wie.md)
+  * [Noden in kaart gebracht](gitbook-voor-abb/waarom-en-voor-wie/noden-in-kaart-gebracht.md)
 * [Zet je eigen Gitbook omgeving op](gitbook-voor-abb/je-eigen-omgeving/README.md)
   * [Gitbook URL's](gitbook-voor-abb/je-eigen-omgeving/gitbook-urls.md)
 
