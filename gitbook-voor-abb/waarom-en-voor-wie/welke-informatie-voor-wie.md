@@ -12,6 +12,8 @@ Meer informatie en voorbeelden:
 
 ## Welke informatie, voor wie
 
+We hebben op voorhand een bevraging gedaan binnen het Digiteam om te vergaren welke informatie we hebben, voor wie die informatie handig zou zijn en waarom.
+
 <table>
   <thead>
     <tr>

@@ -1,6 +1,8 @@
 # Keuze voor GitBook
 
-GitBook geeft ons de mogelijkheid om...
+Een conclusie na het onderzoek [Noden in kaart](noden-in-kaart-gebracht.md) gebracht en [Welke informatie, waar en voor wie](welke-informatie-voor-wie.md).
+
+_GitBook geeft ons de mogelijkheid om..._
 
 * een _kaart_ te hebben om te navigeren tussen alle producten en diensten die we aanbieden – een verzameling van links en informatie die mensen nodig hebben
 * voor alle profielen die aan onze open source oplossingen werken
