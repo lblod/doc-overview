@@ -38,3 +38,18 @@
 * **Versiebeheer**
   * Zien waar we vandaan komen
 
+## Onderhoud en opstarten van Knowledge Bases
+
+* Moet beschikbaar zijn **voor elke functie binnen ABB**
+  * Aanpasbaar door iedereen die dat moet kunnen \(toegang voor alle leden\) om drempels te verlagen/traagheid te verminderen/alles up to date te houden
+* Leeft niet in persoonlijke folders, maar in de cloud en **iedereen kan er aan**
+* Iemand **verantwoordelijk** maken om het te laten gebeuren en alles **up-to-date** te houden  per knowledge base
+* **Versiebeheer**; zien waar we vandaan komen \(informatie niet kwijt geraken die we hebben ingegeven\)
+  * Duidelijke datum van aanpassing
+* **Geen dubbel werk**; een plek!
+  * Zo veel mogelijk linken
+  * Zo weinig mogelijk onderhoud
+  * **Gecentraliseerd**
+
+_"Work is progress and everything is subject to change"_
+
