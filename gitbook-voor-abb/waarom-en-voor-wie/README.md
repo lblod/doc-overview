@@ -1,8 +1,10 @@
 # Waarom en voor wie
 
-![Samen digitale open source producten bouwen](../../.gitbook/assets/screenshot-2021-06-17-at-16.39.15.png)
+![Kennisdeling over digitale open source producten voor ABB.](../../.gitbook/assets/screenshot-2021-06-17-at-16.39.15.png)
 
 ## Waarom hebben we nood aan _Knowledge Bases_ die open source oplossingen ondersteunen
+
+![Herbruikbare oplossingen voor lokale besturen &amp; burgers die bijdragen aan de werking van ABB.](../../.gitbook/assets/screenshot-2021-06-17-at-17.07.54.png)
 
 ### **Nood aan mensen betrekken & informatie verspreiden**
 
@@ -81,15 +83,7 @@ Meer informatie over de keuze GitBook:
 
 Bron: [https://opensource.pleio.nl/](https://opensource.pleio.nl/)
 
-### Doelgroepen
-
-Onze doelgroep gaat breder dan enkel de eindgebruikers \(lokale besturen\), maar is ook gericht naar softwareleveranciers \(om onze doelstellingen te verwezenlijken\).
-
-Hier spreken we ook ontwikkelaars aan die niet ingeschakeld werden om aan onze doelstellingen te werken, maar gebruik kunnen maken van de oplossingen die we bouwen – en op hun beurt onze applicaties weer sterker kunnen maken met hun open source bijdrages.
-
-{% page-ref page="welke-informatie-voor-wie.md" %}
-
-## Voor wie
+### Wie werkt er aan mee
 
 Productbouwers binnen ABB die open source producten bouwen kunnen gebruik maken van onze _space_. [Dit is gratis](../../#is-gitbook-gratis), omdat GitBook gratis licenties geeft aan mensen en organisaties die open source tools bouwen.
 
@@ -97,5 +91,11 @@ Ontdek of jij GitBook als knowledge base nodig hebt:
 
 {% page-ref page="../je-eigen-omgeving/" %}
 
+### Doelgroepen
 
+Onze doelgroep gaat breder dan enkel de eindgebruikers \(lokale besturen\), maar is ook gericht naar softwareleveranciers \(om onze doelstellingen te verwezenlijken\).
+
+Hier spreken we ook ontwikkelaars aan die niet ingeschakeld werden om aan onze doelstellingen te werken, maar gebruik kunnen maken van de oplossingen die we bouwen – en op hun beurt onze applicaties weer sterker kunnen maken met hun open source bijdrages.
+
+{% page-ref page="welke-informatie-voor-wie.md" %}
 
