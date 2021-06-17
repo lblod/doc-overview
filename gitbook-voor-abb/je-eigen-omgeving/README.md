@@ -4,11 +4,15 @@ description: 'Bekijk hoe anderen het aanpakken:'
 
 # Zet je eigen GitBook omgeving op
 
-## Mogelijkheden van informatie delen in het Digiteam
+## Mogelijkheden van informatie delen
 
-1. \*\*\*\*[**Vlaanderen websites**](./#vlaanderen-websites-publieke-juridische-achtergrond-voor-ambtenaren-in-lokale-besturen) Algemene, publieke, juridische achtergrond.
-2. \*\*\*\*[**Sharepoint**](./#sharepoint-documenten-and-gevoelige-informatie) Documenten en gevoelige informatie.
-3. \*\*\*\*[**Gitbook**](./#gitbook-informatie-open-delen) Informatie open delen met internen en externen die mee willen bouwen aan de open source producten en oplossingen binnen ABB.
+Onderaan zie je een visuele representatie van de informatiestromen, naar wie deze moeten en waar deze horen. Vind meer informatie over [welke informatie voor wie](../waarom-en-voor-wie/voorbeelden-van-informatie-delen.md) en [waar je informatie kwijt kan](../waarom-en-voor-wie/voorbeelden-van-informatie-delen.md).
 
 ![Informatiestromen](../../.gitbook/assets/knowledge-base-informatiestromen.png)
+
+## Is GitBook iets voor jou?
+
+{% embed url="https://www.figma.com/file/qweKK3x3NmwDiCtK7ZcrDk/Applicatiearchitectuur-ABB?node-id=2723%3A0" %}
+
+
 
