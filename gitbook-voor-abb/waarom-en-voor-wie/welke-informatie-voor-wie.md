@@ -135,8 +135,8 @@
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>(toekomstige) partners en samenwerkingen</li>
-          <li>(toekomstige) collega&apos;s en partners</li>
+          <li>(toekomstige) partners / samenwerkingen</li>
+          <li>(toekomstige) collega&apos;s</li>
           <li>lokale besturen</li>
           <li>ge&#xEB;ngageerde burgers</li>
           <li>klanten/gebruikers</li>
@@ -169,14 +169,14 @@
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>(toekomstige) partners en samenwerkingen</li>
-          <li>(toekomstige) collega&apos;s en partners</li>
+          <li>(toekomstige) partners / samenwerkingen</li>
+          <li>(toekomstige) collega&apos;s</li>
           <li>klantenadviesbureaus</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Roadmap &amp; Release notes</b>
+      <td style="text-align:left"><b>Roadmap (of vereenvoudigde versie voor eindgebruikers)</b>
       </td>
       <td style="text-align:left">
         <p></p>
@@ -209,8 +209,8 @@
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>(toekomstige) partners en samenwerkingen</li>
-          <li>(toekomstige) collega&apos;s en partners</li>
+          <li>(toekomstige) partners / samenwerkingen</li>
+          <li>(toekomstige) collega&apos;s</li>
           <li>lokale besturen</li>
           <li>klanten/gebruikers</li>
           <li>klantenadviesbureaus</li>
@@ -220,10 +220,72 @@
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left"><b>Release notes (of vereenvoudigde versie voor eindgebruikers)</b>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li><a href="https://gelinkt-notuleren.vlaanderen.be/login">Website van product zelf</a> (maar
+            afhankelijk van deploys) of <a href="https://abb-vlaanderen.gitbook.io/handleiding-loket/">GitBook Handleiding</a> (Geen
+            deploy nodig, updaten zonder afhankelijkheid devs)</li>
+        </ul>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <p>Primair:</p>
+        <ul>
+          <li>Klantvriendelijkheid</li>
+          <li>Transparantie</li>
+          <li>Open source contributies</li>
+          <li>Werking intern</li>
+        </ul>
+        <p>Secundair:</p>
+        <ul>
+          <li>Prospectie</li>
+          <li>Onboarding</li>
+          <li>Marketing</li>
+        </ul>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>(toekomstige) partners / samenwerkingen</li>
+          <li>(toekomstige) collega&apos;s</li>
+          <li>lokale besturen</li>
+          <li>klanten/gebruikers</li>
+          <li>klantenadviesbureaus</li>
+          <li>Software leverancieres</li>
+          <li>Open source ontwikkelaars</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Technische release notes</b>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>GitHUB</li>
+        </ul>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <p>Primair:</p>
+        <ul>
+          <li>Open source contributies</li>
+          <li>Werking intern</li>
+          <li>Klantvriendelijkheid</li>
+          <li>Transparantie</li>
+        </ul>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>(toekomstige) partners / samenwerkingen</li>
+          <li>(toekomstige) collega&apos;s en partners</li>
+          <li>Software leverancieres</li>
+          <li>Open source ontwikkelaars</li>
+        </ul>
+      </td>
     </tr>
   </tbody>
 </table>
