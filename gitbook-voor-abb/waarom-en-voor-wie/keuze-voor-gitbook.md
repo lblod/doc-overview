@@ -1,6 +1,6 @@
 # Keuze voor GitBook
 
-Een conclusie na het onderzoek [Noden in kaart](noden-in-kaart-gebracht.md) gebracht en [Welke informatie, waar en voor wie](welke-informatie-voor-wie.md).
+Een conclusie na het onderzoek [Noden in kaart]() gebracht en [Welke informatie, waar en voor wie](welke-informatie-voor-wie.md).
 
 _GitBook geeft ons de mogelijkheid om..._
 
