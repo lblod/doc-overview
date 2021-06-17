@@ -16,6 +16,7 @@ Bijvoorbeeld:
 * Kadering LBLOD: [https://lokaalbestuur.vlaanderen.be/lokale-besluiten-als-gelinkte-open-data](https://lokaalbestuur.vlaanderen.be/lokale-besluiten-als-gelinkte-open-data)
 * Decretale verplichtingen: [https://lokaalbestuur.vlaanderen.be/lokale-besluiten-als-gelinkte-open-data/open-standaarden-en-technische-specificaties](https://lokaalbestuur.vlaanderen.be/lokale-besluiten-als-gelinkte-open-data/open-standaarden-en-technische-specificaties)
 * Juridische achtergrond, decreten, ... [https://lokaalbestuur.vlaanderen.be/](https://lokaalbestuur.vlaanderen.be/).
+* Extra informatie op YouTube: [https://www.youtube.com/watch?v=DsMbDIkUwMY](https://www.youtube.com/watch?v=DsMbDIkUwMY)
 
 ## \[sharepoint\] Documenten & Gevoelige informatie
 
