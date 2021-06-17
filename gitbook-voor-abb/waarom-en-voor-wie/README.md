@@ -4,7 +4,7 @@
 
 ## Waarom hebben we nood aan _Knowledge Bases_ die open source oplossingen ondersteunen
 
-![Herbruikbare oplossingen voor lokale besturen &amp; burgers die bijdragen aan de werking van ABB.](../../.gitbook/assets/screenshot-2021-06-17-at-17.07.54.png)
+![Herbruikbare oplossingen voor lokale besturen &amp; burgers en voor de werking van ABB.](../../.gitbook/assets/screenshot-2021-06-17-at-17.07.54.png)
 
 ### **Nood aan mensen betrekken & informatie verspreiden**
 
