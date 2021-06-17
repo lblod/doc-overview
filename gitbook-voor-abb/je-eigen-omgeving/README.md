@@ -16,5 +16,5 @@ Gebruik deze beslissingsboom om te ontdekken of GitBook iets voor jouw team is. 
 
 {% embed url="https://www.figma.com/file/qweKK3x3NmwDiCtK7ZcrDk/Applicatiearchitectuur-ABB?node-id=2723%3A0" %}
 
-
+Neem contact op met het Digiteam om een eigen space op te zetten, of om meer informatie te krijgen.
 
