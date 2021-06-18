@@ -122,7 +122,7 @@ _Niet verder uitgewerkt door onderstaande nadelen._
 
 ### Jira epics
 
-Uitgebreider onderzoek
+Uitgebreider onderzoek.
 
 #### Nadelen
 
@@ -148,6 +148,10 @@ Uitgebreider onderzoek
 * Links naar stories zijn eenvoudig toe te voegen
 * Als je de story hebt, ook de epic
 * In de cloud, samenwerken
+
+![Voorbeeld in Jira](../../../.gitbook/assets/screenshot-2021-06-18-at-11.18.56.png)
+
+{% embed url="https://binnenland.atlassian.net/browse/GN-252" caption="Link naar voorbeeld" %}
 
 ### Wiki in GitHub
 
