@@ -4,7 +4,7 @@ Een conclusie die voortkomt nadat we de [noden in kaart](../) brachten, [onderzo
 
 Oorspronkelijk startten we met een manier om beter documenten te beheren en te delen in kader van [feature passports](https://abb-vlaanderen.gitbook.io/abb/project-management-and-working-together/working-together-and-product/feature-passports), maar het onderzoek bracht ons bij een knowledge base waar we informatie konden delen met medewerkers, aannemers en externe open source ontwikkelaars – dat naast ons documentbeheersysteem in Sharepoint staat.
 
-Deze informatie komt voort op basis van enquêtes en gesprekken binnen het Digiteam over een periode van ongeveer 3 jaar.
+Deze informatie komt voort op basis van enquêtes en gesprekken binnen het Digiteam over een periode van ongeveer 2 jaar.
 
 _GitBook geeft ons de mogelijkheid om..._
 
