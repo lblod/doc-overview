@@ -61,9 +61,9 @@ _"Work is progress and everything is subject to change"_
 
 ## Waarom Gitbook
 
-Het gebruik van Gitbook is ontstaan nadat we een oplossing zochten om informatie te delen met mensen die gebruik willen maken van onze **open source** toepassingen.  
+Het gebruik van Gitbook is ontstaan nadat we een oplossing zochten om informatie te delen met mensen die onze open source toepassingen willen hergebruiken, en het onboarden van nieuwe partners en toekomstige collega's.  
   
-Dat kunnen leveranciers zijn van software voor lokale besturen, maar ook mensen die bijvoorbeeld zelf onze editor willen integreren – los van ons doel om lokale besturen te ondersteunen.  
+Hergebruikers kunnen leveranciers zijn van software voor lokale besturen, maar ook mensen die bijvoorbeeld zelf onze editor willen integreren – los van ons doel om lokale besturen te ondersteunen.  
   
 Op deze manier kunnen zij de applicaties die we bouwen ook verbeteren, door bij te dragen aan onze code. Tijdens de pandemie werd het nog veel duidelijker hoe veel kennis er in mensen hun hoofden leeft; als we willen dat mensen bijdragen moet deze informatie _gemakkelijk_ te vinden zijn en begrijpbaar gecommuniceerd worden. We verbeteren dit elke dag.
 
