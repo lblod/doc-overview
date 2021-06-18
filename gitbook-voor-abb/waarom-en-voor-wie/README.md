@@ -57,7 +57,7 @@
 
 _"Work is progress and everything is subject to change"_
 
-Deze informatie komt voort op basis van enquêtes en gesprekken binnen het Digiteam over een periode van ongeveer 3 jaar.
+![Ons doel: samenwerken](../../.gitbook/assets/screenshot-2021-06-17-at-17.09.21.png)
 
 ## Waarom Gitbook
 
@@ -87,11 +87,15 @@ Bron: [https://opensource.pleio.nl/](https://opensource.pleio.nl/)
 
 Productbouwers binnen ABB die open source producten bouwen kunnen gebruik maken van onze _space_. [Dit is gratis](../../#is-gitbook-gratis), omdat GitBook gratis licenties geeft aan mensen en organisaties die open source tools bouwen.
 
+![De product teams werken uit, anderen dragen bij door feedback.](../../.gitbook/assets/screenshot-2021-06-18-at-10.36.54.png)
+
 Ontdek of jij GitBook als knowledge base nodig hebt:
 
 {% page-ref page="../je-eigen-omgeving/" %}
 
 ### Doelgroepen
+
+{% embed url="https://www.figma.com/file/z02HJ0TqY6APXmDRGuJLRv/abb-documentation-onboarding-structure?node-id=506%3A0" %}
 
 Onze doelgroep gaat breder dan enkel de eindgebruikers \(lokale besturen\), maar is ook gericht naar softwareleveranciers \(om onze doelstellingen te verwezenlijken\).
 

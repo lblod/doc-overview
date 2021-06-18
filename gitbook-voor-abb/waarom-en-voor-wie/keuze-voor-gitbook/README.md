@@ -2,6 +2,10 @@
 
 Een conclusie die voortkomt nadat we de [noden in kaart](../) brachten, [onderzochten welke informatie, waar en voor wie](../welke-informatie-voor-wie.md) bestemd was en na het bekijken van de [verschillende tools in de markt](kadering-binnen-documentbeheersysteem.md).
 
+Oorspronkelijk startten we met een manier om beter documenten te beheren en te delen in kader van [feature passports](https://abb-vlaanderen.gitbook.io/abb/project-management-and-working-together/working-together-and-product/feature-passports), maar het onderzoek bracht ons bij een knowledge base waar we informatie konden delen met medewerkers, aannemers en externe open source ontwikkelaars – dat naast ons documentbeheersysteem in Sharepoint staat.
+
+Deze informatie komt voort op basis van enquêtes en gesprekken binnen het Digiteam over een periode van ongeveer 3 jaar.
+
 _GitBook geeft ons de mogelijkheid om..._
 
 * een _kaart_ te hebben om te navigeren tussen alle producten en diensten die we aanbieden – een verzameling van links en informatie die mensen nodig hebben
@@ -20,6 +24,7 @@ _GitBook geeft ons de mogelijkheid om..._
 * op een manier die niet locked-in is \(link met GitHub, de code is van ons\)
 * en gemakkelijk te onderhouden is door iedereen, ook niet-technische profielen.
 * Deze knowledge bases kunnen we koppelen aan de Vlaanderen domeinen.
+* De knowledge base staat naast het documentbeheersysteem Sharepoint, waar de gevoelige data terecht komt.
 
 We staan open voor andere platformen, maar op dit moment hebben we nog geen betere oplossing gevonden. De oefening _welke informatie waar_ is nog in evolutie, en er zullen nog aanpassingen moeten gebeuren.
 
