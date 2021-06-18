@@ -57,7 +57,8 @@ _Niet verder uitgewerkt door onderstaande nadelen._
 
 #### Nadelen
 
-* Niet aan te passen door mensen zonder technische achtergrond.
+* Niet aan te passen door mensen zonder technische achtergrond
+* Moeilijk vlot samenwerken door technische bottleneck, moet allemaal via technisch team gaan.
 
 #### Voordelen
 
