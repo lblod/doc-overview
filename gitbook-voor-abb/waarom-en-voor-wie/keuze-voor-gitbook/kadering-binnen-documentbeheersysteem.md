@@ -100,8 +100,6 @@ _Niet verder uitgewerkt door onderstaande nadelen._
 
 ### Teams
 
-![Voorbeeld Toevla](../../../.gitbook/assets/screenshot-2021-06-17-at-17.20.30.png)
-
 #### Nadelen
 
 * Geen handig mappensysteem; er is geen hiërarchie, overzicht geraakt snel verloren
@@ -119,6 +117,8 @@ _Niet verder uitgewerkt door onderstaande nadelen._
 * kan gedeeld worden
 * inline comments bij de juiste onderdelen voor de juiste mensen
 * zoeken is eenvoudiger dan in jira
+
+![Voorbeeld Toevla](../../../.gitbook/assets/screenshot-2021-06-17-at-17.20.30.png)
 
 ### Jira epics
 
