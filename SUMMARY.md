@@ -14,7 +14,8 @@
 
 * [Waarom en voor wie](gitbook-voor-abb/waarom-en-voor-wie/README.md)
   * [Welke informatie, waar en voor wie](gitbook-voor-abb/waarom-en-voor-wie/welke-informatie-voor-wie.md)
-  * [Keuze voor GitBook](gitbook-voor-abb/waarom-en-voor-wie/keuze-voor-gitbook.md)
+  * [Keuze voor GitBook](gitbook-voor-abb/waarom-en-voor-wie/keuze-voor-gitbook/README.md)
+    * [Andere Systemen](gitbook-voor-abb/waarom-en-voor-wie/keuze-voor-gitbook/kadering-binnen-documentbeheersysteem.md)
   * [Voorbeelden van informatie delen](gitbook-voor-abb/waarom-en-voor-wie/voorbeelden-van-informatie-delen.md)
 * [Zet je eigen GitBook omgeving op](gitbook-voor-abb/je-eigen-omgeving/README.md)
   * [Gitbook URL's](gitbook-voor-abb/je-eigen-omgeving/gitbook-urls.md)

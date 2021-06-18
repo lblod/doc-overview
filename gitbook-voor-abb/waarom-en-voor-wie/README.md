@@ -69,7 +69,7 @@ Op deze manier kunnen zij de applicaties die we bouwen ook verbeteren, door bij 
 
 Meer informatie over de keuze GitBook:
 
-{% page-ref page="keuze-voor-gitbook.md" %}
+{% page-ref page="keuze-voor-gitbook/" %}
 
 ### **Over Open Source**
 
