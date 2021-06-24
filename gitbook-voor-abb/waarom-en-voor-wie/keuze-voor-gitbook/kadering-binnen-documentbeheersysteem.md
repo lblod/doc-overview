@@ -184,6 +184,7 @@ Hier liepen al gesprekken over in 2018, confluence was te duur om te beheren voo
 * Weinig bewerkingsmogelijkheden in tekst \(maar dit is ook een voordeel, geen kleurboeken en stijlbreuken\)
 * Nieuwe accounts aanmaken
 * Niet helemaal open source \(maar de inhoud wel, gesynced naar onze eigen FP's\)
+* Je kan mensen niet taggen in comments
 
 #### Voordelen
 
