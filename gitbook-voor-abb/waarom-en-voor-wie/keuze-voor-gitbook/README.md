@@ -21,10 +21,9 @@ _GitBook geeft ons de mogelijkheid om..._
 * die transparant is over hoe we dingen doen
 * die toont wat de mogelijkheden zijn van wat we doen
 * op een laagdrempelige manier verwoord werd, die open source oplossingen ondersteunt
-* op een manier die niet locked-in is \(link met GitHub, de code is van ons\)
+* op een manier die niet locked-in is (link met GitHub, de code is van ons)
 * en gemakkelijk te onderhouden tegelijkertijd, is door iedereen, ook niet-technische profielen.
 * Deze knowledge bases kunnen we koppelen aan de Vlaanderen domeinen.
 * De knowledge base staat naast het documentbeheersysteem Sharepoint, waar de gevoelige data terecht komt.
 
-We staan open voor andere platformen, maar op dit moment hebben we nog geen betere oplossing gevonden. De oefening _welke informatie waar_ is nog in evolutie, en er zullen nog aanpassingen moeten gebeuren.
-
+We staan open voor andere platformen, maar op dit moment hebben we nog geen betere oplossing gevonden. De oefening _welke informatie waar _is nog in evolutie, en er zullen nog aanpassingen moeten gebeuren.

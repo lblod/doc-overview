@@ -18,7 +18,5 @@ Gebruik deze beslissingsboom om te ontdekken of GitBook iets voor jouw team is. 
 
 Neem contact op met het Digiteam om een eigen space op te zetten, of om meer informatie te krijgen.
 
-![](../../.gitbook/assets/screenshot-2021-06-17-at-17.00.02.png)
-
-
+![](<../../.gitbook/assets/Screenshot 2021-06-17 at 17.00.02.png>)
 
