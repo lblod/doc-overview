@@ -6,6 +6,10 @@ description: >-
 
 # Handleiding Gitbook
 
+{% hint style="warning" %}
+Deze pagina is niet meer up-to-date!
+{% endhint %}
+
 Deze handleiding bestaat om mensen binnen ABB te ondersteunen bij het delen van informatie over _open source_ producten. Ben je niet zeker of GitBook iets voor jou is? Bezoek de [Waarom en voor wie](gitbook-voor-abb/waarom-en-voor-wie/) pagina.
 
 ## Belangrijk om te weten​
@@ -28,7 +32,7 @@ De belangrijkste functionaliteiten kan je terugvinden op deze pagina's:
 [je-aanpassingen-publiceren](hoe-het-werkt/je-aanpassingen-publiceren/)
 {% endcontent-ref %}
 
-_Meer informatie nodig? Mail naar _[_miet@miet.be_](mailto:miet@miet.be)_ en ik help je verder!_
+_Meer informatie nodig? Mail naar_ [_miet@miet.be_](mailto:miet@miet.be) _en ik help je verder!_
 
 ## Bewerkingsrecht krijgen
 
@@ -50,7 +54,7 @@ Je kan elke pagina exporteren als PDF en dan printen; moest dat ooit nodig zijn.
 
 ![Maak bovenaan rechts een PDF van deze gitbook om te printen.](<.gitbook/assets/Screenshot 2021-06-16 at 16.15.30.png>)
 
- Wil je meer controle over de layout? Gebruik de print-functionaliteit via je browser, en pas daar de interlinie, koppen en voeten aan. 
+&#x20;Wil je meer controle over de layout? Gebruik de print-functionaliteit via je browser, en pas daar de interlinie, koppen en voeten aan.&#x20;
 
 ![Printen in chrome met aangepaste layout.](<.gitbook/assets/Screenshot 2021-06-16 at 16.17.02.png>)
 
