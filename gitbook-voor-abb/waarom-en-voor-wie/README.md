@@ -2,7 +2,7 @@
 
 ![Kennisdeling over digitale open source producten voor ABB.](<../../.gitbook/assets/Screenshot 2021-06-17 at 16.39.15 (1).png>)
 
-## Waarom hebben we nood aan _Knowledge Bases _die open source oplossingen ondersteunen
+## Waarom hebben we nood aan _Knowledge Bases_ die open source oplossingen ondersteunen
 
 ![Herbruikbare oplossingen voor lokale besturen & burgers en voor de werking van ABB.](<../../.gitbook/assets/Screenshot 2021-06-17 at 17.07.54.png>)
 
@@ -23,8 +23,8 @@
   * Informatie die je mag zien, moet je gemakkelijk kunnen vinden
   * Transparant
   * We zeggen wat we doen en we doen wat we zeggen – Practice what we preach
-* **Privacy** gevoelig
-  * **Geen gevoelige informatie **online zetten
+* **Privacy en technisch** gevoelig
+  * **Geen gevoelige informatie** online zetten
   * **Geen onnodige publiciteit** in de negatieve zin
   * Gevoel voor **veiligheid**
 * Een plek om **overal te geraken** (en **barrières invoeren waar nodig**)
