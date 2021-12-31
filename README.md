@@ -6,9 +6,9 @@ description: >-
 
 # Handleiding Gitbook
 
-{% hint style="info" %}
+{% hint style="danger" %}
 **Deze handleiding is niet meer up to date.**\
-Er bestaat een filmpje.
+Je kan een korte ruwe handleiding vinden op SharePoint (na inloggen, bevat gevoelige informatie). [https://vlaamseoverheid.sharepoint.com/sites/ABB\_DigitaalLoket/Handleidingen/Forms/AllItems.aspx](https://vlaamseoverheid.sharepoint.com/sites/ABB\_DigitaalLoket/Handleidingen/Forms/AllItems.aspx)
 {% endhint %}
 
 Deze handleiding bestaat om mensen binnen ABB te ondersteunen bij het delen van informatie over _open source_ producten. Ben je niet zeker of GitBook iets voor jou is? Bezoek de [Waarom en voor wie](gitbook-voor-abb/waarom-en-voor-wie/) pagina.
