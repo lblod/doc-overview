@@ -6,7 +6,9 @@
 
 * [Navigatie en Pagina's](hoe-het-werkt/navigatie-en-paginas.md)
 * [Basisfunctionaliteiten](hoe-het-werkt/basisfunctionaliteiten.md)
-* [Je aanpassingen publiceren](hoe-het-werkt/je-aanpassingen-publiceren/README.md)
+* [Gitbook pagina's updaten door aanpassingen te 'mergen'](hoe-het-werkt/je-aanpassingen-publiceren/README.md)
+  * [Publicatieinstellingen GitBook](hoe-het-werkt/je-aanpassingen-publiceren/publicatieinstellingen-gitbook.md)
+  * [Welke link deel ik aan mijn publiek?](hoe-het-werkt/je-aanpassingen-publiceren/welke-link-deel-ik-aan-mijn-publiek.md)
   * [Historiek bekijken en herstellen](hoe-het-werkt/je-aanpassingen-publiceren/historiek-bekijken-en-herstellen.md)
 * [Toegang krijgen tot een handleiding](hoe-het-werkt/toegang-krijgen-tot-een-handleiding.md)
 
@@ -19,4 +21,3 @@
   * [Voorbeelden van informatie delen](gitbook-voor-abb/waarom-en-voor-wie/voorbeelden-van-informatie-delen.md)
 * [Zet je eigen GitBook omgeving op](gitbook-voor-abb/je-eigen-omgeving/README.md)
   * [Gitbook URL's](gitbook-voor-abb/je-eigen-omgeving/gitbook-urls.md)
-
