@@ -83,7 +83,7 @@ Meer informatie over de keuze GitBook:
 >
 > Er zijn verschillende definities van open source software in omloop. In essentie komt het erop neer dat: open source software, software is waarbij je niet alleen het recht krijgt om de software (naar eigen inzicht) te gebruiken, maar deze ook mag verbeteren en de broncode inclusief aanpassingen mag verspreiden. Bij open source software draait het in de kern om de levering van de broncode en het recht om deze te mogen gebruiken. Op basis van de licentiekeuze, krijgt de gebruiker deze rechten. Omdat open source software het doel heeft om verbeteringen mogelijk te maken, beperkt de doelgroep zicht niet alleen tot eindgebruikers maar ook tot ontwikkelaars en andere partijen.
 
-Bron: [https://opensource.pleio.nl/](https://opensource.pleio.nl)
+Bron: [https://opensource.pleio.nl/](https://opensource.pleio.nl/)
 
 ### Wie werkt er aan mee
 

@@ -10,7 +10,7 @@ _GitBook geeft ons de mogelijkheid om..._
 
 * een _kaart_ te hebben om te navigeren tussen alle producten en diensten die we aanbieden – een verzameling van links en informatie die mensen nodig hebben
 * voor alle profielen die aan onze open source oplossingen werken
-  * van beleidsmakers tot high-level management tot experts die in de code duiken; 
+  * van beleidsmakers tot high-level management tot experts die in de code duiken;&#x20;
   * van medewerkers bij ABB tot open source ontwikkelaars die onze oplossingen kunnen hergebruiken en verbeteren
 * die verwijst naar documenten, code, ontwerpen, wireframes, ....
 * die documenteert en informeert over technieken, frameworks en methodologieën die we gebruiken om samen te werken
@@ -26,4 +26,4 @@ _GitBook geeft ons de mogelijkheid om..._
 * Deze knowledge bases kunnen we koppelen aan de Vlaanderen domeinen.
 * De knowledge base staat naast het documentbeheersysteem Sharepoint, waar de gevoelige data terecht komt.
 
-We staan open voor andere platformen, maar op dit moment hebben we nog geen betere oplossing gevonden. De oefening _welke informatie waar _is nog in evolutie, en er zullen nog aanpassingen moeten gebeuren.
+We staan open voor andere platformen, maar op dit moment hebben we nog geen betere oplossing gevonden. De oefening _welke informatie waar_ is nog in evolutie, en er zullen nog aanpassingen moeten gebeuren.

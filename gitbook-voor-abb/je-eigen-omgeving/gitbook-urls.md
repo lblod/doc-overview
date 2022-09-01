@@ -37,7 +37,7 @@ We houden geen .gitbook.io extensie om phishing en valse informatie tegen te gaa
 
 * **`Custom URL`**: sommige producten wil je vrij positioneren als product op zich om duidelijk te maken dat je dit ook buiten de overheid kan gebruiken – met Vlaanderen als partner.
   * **Structuur**: naamproduct.com/be
-  * **Voorbeeld**: [https://say-editor.com/](https://say-editor.com)
+  * **Voorbeeld**: [https://say-editor.com/](https://say-editor.com/)
 
 ## URL's voor de verschillende producten & diensten
 
@@ -109,7 +109,7 @@ Breder dan GN alleen, omvat ook integraties met andere producten en diensten.
 
   * Gitbook repository: TODO\
 
-* `bestaat`** Doc** 
+* `bestaat` **Doc**&#x20;
   * `Toekomst` gitbook URL: doc.loket.lblod.info
   * `Toekomst` lblod URL: doc.loket.lblod.info
   * `Toekomst` Vlaanderen URL: doc.loket.lokaalbestuur.vlaanderen.be
@@ -129,21 +129,21 @@ Breder dan GN alleen, omvat ook integraties met andere producten en diensten.
 
 ### Organisatieportaal (**ContactHUB**)
 
-* `bestaat`** Handleiding**
+* `bestaat` **Handleiding**
   * `Toekomst` gitbook URL: abb-vlaanderen.gitbook.io/handleiding-organisaties
   * `Toekomst` lblod URL: handleiding.organisaties.lblod.info
   *   `Toekomst` Vlaanderen URL: handleiding.organisaties.vlaanderen.be
 
 
 * `bestaat` **Doc**
-  * Huidige gitbook URL:** **[https://abb-vlaanderen.gitbook.io/feature-passports-ch ](https://abb-vlaanderen.gitbook.io/feature-passports-ch)
+  * Huidige gitbook URL: **** [https://abb-vlaanderen.gitbook.io/feature-passports-ch ](https://abb-vlaanderen.gitbook.io/feature-passports-ch)
   * `Toekomst` gitbook URL: abb-vlaanderen.gitbook.io/doc-organisaties
   * `Toekomst` lblod URL: doc.organisaties.lblod.info
   * `Toekomst` Vlaanderen URL: doc.organisaties.vlaanderen.be\
 
   * Gitbook repository: TODO
 
-### **Erediensten**   
+### **Erediensten**  &#x20;
 
 * **Handleiding** – zie organisatieportaal\
 
@@ -191,7 +191,7 @@ Mogelijk beter onderbrengen in algemene team wiki; aangezien dit een methodologi
 #### Say Editor
 
 * `bestaat` **Doc**
-  * Custom domein: [https://say-editor.com/](https://say-editor.com)
+  * Custom domein: [https://say-editor.com/](https://say-editor.com/)
   * Github respostiroy: [https://github.com/lblod/frontend-say-editor-documentation](https://github.com/lblod/frontend-say-editor-documentation)\
 
 * **Handleiding**: niet nodig.

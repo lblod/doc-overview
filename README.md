@@ -16,7 +16,7 @@ Deze handleiding bestaat om mensen binnen ABB te ondersteunen bij het delen van 
 ## Belangrijk om te weten​
 
 {% hint style="info" %}
-Dit is een korte handleiding over hoe Gitbook te gebruiken in Het Nederlands, met de meest belangrijke functionaliteiten uitgelegd. Een uitgebreide versie in het Engels kan je hier vinden: [https://docs.gitbook.com/](https://docs.gitbook.com)
+Dit is een korte handleiding over hoe Gitbook te gebruiken in Het Nederlands, met de meest belangrijke functionaliteiten uitgelegd. Een uitgebreide versie in het Engels kan je hier vinden: [https://docs.gitbook.com/](https://docs.gitbook.com/)
 {% endhint %}
 
 De belangrijkste functionaliteiten kan je terugvinden op deze pagina's:

@@ -15,7 +15,7 @@ Bijvoorbeeld:
 * Kadering ABB: [https://www.vlaanderen.be/agentschap-binnenlands-bestuur](https://www.vlaanderen.be/agentschap-binnenlands-bestuur)
 * Kadering LBLOD: [https://lokaalbestuur.vlaanderen.be/lokale-besluiten-als-gelinkte-open-data](https://lokaalbestuur.vlaanderen.be/lokale-besluiten-als-gelinkte-open-data)
 * Decretale verplichtingen: [https://lokaalbestuur.vlaanderen.be/lokale-besluiten-als-gelinkte-open-data/open-standaarden-en-technische-specificaties](https://lokaalbestuur.vlaanderen.be/lokale-besluiten-als-gelinkte-open-data/open-standaarden-en-technische-specificaties)
-* Juridische achtergrond, decreten, ... [https://lokaalbestuur.vlaanderen.be/](https://lokaalbestuur.vlaanderen.be).
+* Juridische achtergrond, decreten, ... [https://lokaalbestuur.vlaanderen.be/](https://lokaalbestuur.vlaanderen.be/).
 * Extra informatie op YouTube: [https://www.youtube.com/watch?v=DsMbDIkUwMY](https://www.youtube.com/watch?v=DsMbDIkUwMY)
 
 ## \[sharepoint] Documenten & Gevoelige informatie
@@ -52,13 +52,13 @@ Bijvoorbeeld:
 
 Gebruikers van applicaties en diensten van ABB.
 
- Deze gebruikersgroep is niet dicht betrokken bij het ontwikkelen van de producten.
+&#x20;Deze gebruikersgroep is niet dicht betrokken bij het ontwikkelen van de producten.
 
 #### Wat
 
 Werking producten en diensten ABB.
 
-Een open plek, waar je niet voor moet inloggen, om informatie zoals **handleidingen** en eventueel **release notes **of **roadmap **te delen. **Waarom** de applicatie bestaat, voor welke **doeleinden** kan ook op deze pagina terecht komen.\
+Een open plek, waar je niet voor moet inloggen, om informatie zoals **handleidingen** en eventueel **release notes** of **roadmap** te delen. **Waarom** de applicatie bestaat, voor welke **doeleinden** kan ook op deze pagina terecht komen.\
 \
 Voorbeeld: [https://abb-vlaanderen.gitbook.io/handleiding-loket](https://abb-vlaanderen.gitbook.io/handleiding-loket)
 

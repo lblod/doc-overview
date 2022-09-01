@@ -1,29 +1,21 @@
 ---
-description: Informatie kwijt? Kijk naar je historiek.
+description: Informatie kwijt? Kijk naar je historiek van changes.
 ---
 
 # Historiek bekijken en herstellen
 
 ## Een vorige versie bekijken
 
-Heb je per ongeluk iets weggedaan uit het verleden, en wil je het terug? Ga naar "edits" en ga op zoek naar de _merge_ die je laatst hebt gedaan.
+Heb je per ongeluk iets weggedaan uit het verleden, en wil je het terug? Ga naar "History" en ga op zoek naar de _merge_ die je laatst hebt gedaan.
 
-![Bekijk de historiek in "Edits"](<../../.gitbook/assets/Screenshot 2021-03-05 at 14.24.48.png>)
+Klik vervolgens op die _merge_; je kan de informatie nu kopiëren in een nieuwe change request en zo de aanpassing ongedaan maken.
 
-Klik vervolgens op die _merge_; je kan de informatie nu kopiëren.
+<figure><img src="../../.gitbook/assets/Schermafbeelding 2022-09-01 om 11.24.43.png" alt=""><figcaption></figcaption></figure>
 
-![](<../../.gitbook/assets/Screenshot 2021-03-05 at 14.26.45.png>)
 
-## Een vorige versie terugzetten
-
-Je kan er ook voor kiezen om een vorige versie van je space terug te zetten. _**Opgelet! Gooi niet zomaar informatie van anderen weg. Deze informatie krijg je niet meer terug.**_
-
-![Herstel een vorige versie](<../../.gitbook/assets/Screenshot 2021-03-05 at 14.29.06.png>)
-
-![Wees er zeker van dat je niets waardevol weggooit!](<../../.gitbook/assets/Screenshot 2021-03-05 at 14.29.10 (1).png>)
 
 ## Weer naar je laatste versie terugkeren
 
-Om weer naar je laatste aanpassingen terug te keren, **klik rechtsboven op close**.
+Om weer naar je laatste aanpassingen terug te keren en verder niks te doen met de inhoud uit een vorige change request, **klik rechtsonder op het kruisje om de change request te sluiten**.
 
-![](<../../.gitbook/assets/Screenshot 2021-03-05 at 14.37.03.png>)
+<figure><img src="../../.gitbook/assets/Schermafbeelding 2022-09-01 om 11.29.43.png" alt=""><figcaption><p>Afsluiten van een vorige change request en terug naar de actieve versie gaan.</p></figcaption></figure>
