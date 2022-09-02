@@ -3,7 +3,7 @@
 ## Registratie
 
 {% hint style="info" %}
-Je kan momenteel een invite krijgen via [miet@miet.be](mailto:miet@miet.be). Geen invite gekregen? Stuur een mailtje!
+Je kan momenteel een invite krijgen via de Product Manager of Product Owner van je team of via de technical leads Aad, Felix of Niels. Je kan ook bij scrum master Dries Beheydt terecht.&#x20;
 {% endhint %}
 
 Via de invite link kan je ervoor kiezen om een nieuwe account aan te maken, of je bestaande Github of Google account gebruiken.
