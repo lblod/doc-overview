@@ -14,6 +14,7 @@
 
 ## Gitbook voor ABB
 
+* [Toegang krijgen tot ABB Gitbook](gitbook-voor-abb/toegang-krijgen-tot-abb-gitbook.md)
 * [Waarom en voor wie](gitbook-voor-abb/waarom-en-voor-wie/README.md)
   * [Welke informatie, waar en voor wie](gitbook-voor-abb/waarom-en-voor-wie/welke-informatie-voor-wie.md)
   * [Rollen en rechten in GitBook](gitbook-voor-abb/waarom-en-voor-wie/rollen-en-rechten-in-gitbook.md)
